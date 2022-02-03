@@ -32,7 +32,8 @@ html {
 }
 body {
 /*	background: url(../img/background.jpg) no-repeat center center fixed; */
-	background-color: blueviolet;
+	background-image: url("https://image.freepik.com/free-vector/yellow-background-with-halftone-lines-design_1017-30148.jpg?w=1060"); 
+/*	background-color: blueviolet; */
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
